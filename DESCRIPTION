@@ -13,3 +13,5 @@ Imports:
     ggplot2 (>= 3.3.5),
     rlang,
     stats
+URL: https://github.com/SZuzek/nicePlots
+BugReports: https://github.com/SZuzek/nicePlots/issues
